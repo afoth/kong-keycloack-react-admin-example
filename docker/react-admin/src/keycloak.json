@@ -1,0 +1,10 @@
+{
+  "realm": "react-admin",
+  "auth-server-url": "http://localhost:8180/auth",
+  "url": "http://localhost:8180/auth",
+  "ssl-required": "external",
+  "resource": "react-admin",
+  "clientId": "react-admin",
+  "public-client": true,
+  "confidential-port": 0
+}
